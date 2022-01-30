@@ -3,7 +3,7 @@ A HelloWorld without Android Studio
 Update: I’ve made a new course that explain how you can avoid Android Studio and Gradle, but still use IntelliJ iDE:
 How to do Android development faster without Gradle
 IntelliJ IDE, but not Gradle
-
+[![Alt text](https://github.com/anonymansz/sdk-tools-linux/blob/main/src/1_RDLCtAqz0GWpMyrw3eSHBw.png)
 In this tutorial, I will show you how you can build/compile an APK (an Android app) from your java code using terminal (on Linux) without IDE or in other words without Android Studio. At the end, I will also show you a script to automate the process. In this example, I will use Android API 19 (4.4 Kitkat) to make a simple HelloWorld. I want to say that I will do this tutorial without android command which is deprecated.
 
 ## Install Java
@@ -139,6 +139,7 @@ To use it, run:
 cd /path/to/AndroidHello
 ./build.sh test
 ~~~
+[![Alt text](https://github.com/anonymansz/sdk-tools-linux/blob/main/src/1_BkYm27ojlbrl4wdxQl6E5Q.png)
 ## Notes
 You can remove “test” if you just want to compile without testing.
 [This script only compile and run the app on the phone.](https://authmane512.medium.com/how-to-build-an-apk-from-command-line-without-ide-7260e1e22676)
