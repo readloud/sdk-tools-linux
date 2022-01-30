@@ -141,6 +141,4 @@ cd /path/to/AndroidHello
 ~~~
 ## Notes
 You can remove “test” if you just want to compile without testing.
-This script only compile and run the app on the phone. But I can also make a script to automatically generate a new project like this one. I think I have a good idea to do so, but I need to know if you are interested. If it’s the case, please leave a comment or send me an e-mail.
-I can also complete the script for external libraries. Likewise, let me know if you want this.
-If you have any questions, don’t hesitate to ask them below or by e-mail ;-)! EDIT: Well I’m very busy actually…
+[This script only compile and run the app on the phone.](https://authmane512.medium.com/how-to-build-an-apk-from-command-line-without-ide-7260e1e22676)
